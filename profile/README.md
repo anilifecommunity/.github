@@ -12,7 +12,7 @@ Native on every screen you own. Phone, TV, desktop, browser. One community, one 
 
 [![Android & TV](https://img.shields.io/badge/Android%20%26%20TV-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/anilifecommunity/android-and-tv)
 [![iOS](https://img.shields.io/badge/iOS-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/anilifecommunity/ios)
-[![Desktop](https://img.shields.io/badge/Desktop-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black)](https://github.com/anilifecommunity/desktop)
+[![Desktop](https://img.shields.io/badge/Desktop-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black)](https://github.com/anilifecommunity/kotlindesktop)
 [![Web](https://img.shields.io/badge/Web-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/anilifecommunity/web)
 
 </div>
@@ -30,9 +30,8 @@ Watch on the couch, while on the goon, at your desk, or in a browser tab.
 | Platform | Repo | Stack | Status |
 | :-- | :-- | :-- | :-- |
 | **Android, Android TV, Fire TV** | [`android-and-tv`](https://github.com/anilifecommunity/android-and-tv) | Kotlin + Jetpack Compose | Active |
-| **iOS** | [`ios`](https://github.com/anilifecommunity/ios) | Swift | Active |
-| **Desktop** | [`desktop`](https://github.com/anilifecommunity/desktop) | Rust | Archived |
-| **Desktop NEW** | [`kotlindesktop`](https://github.com/anilifecommunity/kotlindesktop) | Kotlin | Active |
+| **iOS** | [`ios`](https://github.com/anilifecommunity/ios) | Swift | Halted |
+| **Desktop** | [`kotlindesktop`](https://github.com/anilifecommunity/kotlindesktop) | Kotlin | Active |
 | **Web** | [`web`](https://github.com/anilifecommunity/web) | TypeScript | Active |
 
 ## Meet the devs
@@ -50,7 +49,7 @@ The crew behind each platform. Find us on Discord.
   </tr>
   <tr>
     <th align="center">Android and TV<br /><sub>Kotlin + Compose</sub></th>
-    <th align="center">Desktop<br /><sub>Rust</sub></th>
+    <th align="center">Desktop<br /><sub>Kotlin</sub></th>
     <th align="center">Web<br /><sub>TypeScript</sub></th>
   </tr>
   <tr>
