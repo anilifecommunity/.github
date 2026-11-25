@@ -87,6 +87,10 @@ Not a coder? Bug reports, design ideas, testing on odd devices and docs fixes ar
 
 Most Anilife repositories are released under **[MIT-0](https://choosealicense.com/licenses/mit-0/)**. Check each repo for its own `LICENSE` file.
 
+## Deratives
+repositories mentioned below are derative work of any AniLife repositories! You may check them out!  
+[AniLumos](https://github.com/vnxrgb/Anilumos) made by vnxlegendarypotato is a personal fork of AniLife Android!
+
 ---
 
 <div align="center">
